@@ -1,0 +1,6 @@
+framework module Pods_CircleMenuStudy {
+  umbrella header "Pods-CircleMenuStudy-umbrella.h"
+
+  export *
+  module * { export * }
+}
